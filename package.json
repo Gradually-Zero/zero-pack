@@ -1,6 +1,7 @@
 {
   "name": "zero-pack",
   "displayName": "Zero-Pack",
+  "publisher": "Gradually-Zero",
   "description": "",
   "version": "0.0.1",
   "engines": {
