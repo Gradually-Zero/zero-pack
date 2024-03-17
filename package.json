@@ -3,7 +3,7 @@
   "displayName": "Zero Pack",
   "publisher": "Gradually-Zero",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/Gradually-Zero/zero-pack"
   },
+  "icon": "icon/zero-pack_128x128.png",
   "categories": [
     "Extension Packs",
     "Snippets",
