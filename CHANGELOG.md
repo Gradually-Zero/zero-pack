@@ -4,6 +4,12 @@ All notable changes to the "zero-pack" extension pack will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.5] - 2025.01.19
+
+### Changed
+
+- remove Snippets, Keymaps
+
 ## [0.0.4] - 2024.03.17
 
 ### Changed

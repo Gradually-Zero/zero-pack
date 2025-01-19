@@ -3,7 +3,7 @@
   "displayName": "Zero Pack",
   "publisher": "Gradually-Zero",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -14,9 +14,7 @@
   },
   "icon": "icon/zero-pack_128x128.png",
   "categories": [
-    "Extension Packs",
-    "Snippets",
-    "Keymaps"
+    "Extension Packs"
   ],
   "extensionPack": [
     "astro-build.astro-vscode",
@@ -50,31 +48,5 @@
     "vadimcn.vscode-lldb",
     "vue.volar",
     "woodreamz.es7-react-js-snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "",
-        "path": "./snippets/snippets.code-snippets"
-      }
-    ],
-    "keybindings": [
-      {
-        "key": "shift+alt+p",
-        "command": "editor.action.insertSnippet",
-        "when": "editorTextFocus",
-        "args": {
-          "name": "Print to recognizable comment"
-        }
-      },
-      {
-        "key": "shift+alt+t",
-        "command": "editor.action.insertSnippet",
-        "when": "editorTextFocus",
-        "args": {
-          "name": "Print to import type"
-        }
-      }
-    ]
-  }
+  ]
 }
