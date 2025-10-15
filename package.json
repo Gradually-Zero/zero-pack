@@ -3,7 +3,7 @@
   "displayName": "Zero Pack",
   "publisher": "Gradually-Zero",
   "description": "",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -17,36 +17,10 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "astro-build.astro-vscode",
-    "dart-code.dart-code",
-    "dart-code.flutter",
-    "dbaeumer.vscode-eslint",
-    "editorconfig.editorconfig",
-    "esbenp.prettier-vscode",
+    "Gradually-Zero.zero-aquila-chrysaetos",
     "formulahendry.auto-rename-tag",
-    "hediet.vscode-drawio",
-    "jock.svg",
-    "maattdd.gitless",
-    "mhutchie.git-graph",
-    "ms-python.black-formatter",
-    "ms-python.debugpy",
-    "ms-python.python",
-    "ms-python.vscode-pylance",
-    "ms-vscode.cmake-tools",
-    "ms-vscode.cpptools",
-    "ms-vscode.cpptools-extension-pack",
-    "ms-vscode.cpptools-themes",
-    "ms-vscode.extension-test-runner",
-    "pomdtr.excalidraw-editor",
-    "rangav.vscode-thunder-client",
-    "rust-lang.rust-analyzer",
-    "svelte.svelte-vscode",
-    "tamasfe.even-better-toml",
-    "tauri-apps.tauri-vscode",
+    "editorconfig.editorconfig",
     "techer.open-in-browser",
-    "twxs.cmake",
-    "vadimcn.vscode-lldb",
-    "vue.volar",
-    "woodreamz.es7-react-js-snippets"
+    "mhutchie.git-graph"
   ]
 }
